@@ -1,9 +1,12 @@
-## Hi there 😎 I'm not your Father!🤯🤣🤣
+<div style="display: inline_block" align="center"><br> 
+  <img align="center" alt="Thi-Java" height="200" width="300" src="https://user-images.githubusercontent.com/86064868/194680366-4032f29c-64d0-4051-bc1a-290580dd62b3.gif" 
+</div>
+<div align="center" > <h1> <font color="purple"> Hi there 😎 I'm not your Father!🤯🤣🤣 </font>  </h1></div> 
 
 
-> ***I’m currently working on "Lexos"***
+<!-- ***I’m currently working on "Lexos"*** -->
 > 
-> ***I’m currently 'learning Java"***
+> ***I’m currently 'learning Java, Javascript and React"***
 
 <div align="center">
   <a href="https://github.com/thiagolluiz">
@@ -15,11 +18,15 @@
   <!-- Little Icon -->
 <div style="display: inline_block" align="center"><br> 
   <img align="center" alt="Thi-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Thi-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
   <img align="center" alt="Thi-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <!-- <img align="center" alt="Thi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> -->
-  <img align="center" alt="Thi-Html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Thi-Css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Thi-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="AMD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="AMD-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="node-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="AMD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="AMD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="AMD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="SASS" height="31" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   
   <!-- Big Image -->
   <!-- <img align="right" height="150" style="border-radius:50px;" src="https://https://www.facebook.com/photo/?fbid=2801545823262218&set=a.101823239901170">
