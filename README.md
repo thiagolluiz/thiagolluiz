@@ -6,7 +6,7 @@
 
 <!-- ***I’m currently working on "Lexos"*** -->
 > 
-> ***I’m currently 'learning Java, Javascript and React"***
+> ***I’m currently "learning Java, Javascript and React"***
 
 <div align="center">
   <a href="https://github.com/thiagolluiz">
